@@ -1,3 +1,6 @@
+# Mac
+.DS_Store
+
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -27,3 +30,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# KiCad 7
+*.lck
+*auto_saved_files*
