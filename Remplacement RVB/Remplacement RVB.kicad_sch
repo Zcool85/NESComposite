@@ -520,7 +520,7 @@
         )
       )
     )
-    (symbol "NESComposite:NES_PCB_BRIDGE" (in_bom yes) (on_board yes)
+    (symbol "Remplacement RVB:NES_PCB_BRIDGE" (in_bom yes) (on_board yes)
       (property "Reference" "B" (at 2.54 8.255 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -562,7 +562,7 @@
         )
       )
     )
-    (symbol "NESComposite:NES_video_connector" (in_bom yes) (on_board yes)
+    (symbol "Remplacement RVB:NES_video_connector" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 16.1925 1.5875 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1555,7 +1555,7 @@
     (pin "1" (uuid 3d5d0393-7422-4062-b57a-325075b14ec1))
     (pin "2" (uuid d5f83bc3-7a51-482a-91a0-ef70b6b33c59))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C5") (unit 1)
         )
@@ -1563,7 +1563,7 @@
     )
   )
 
-  (symbol (lib_id "NESComposite:NES_video_connector") (at 93.98 163.83 0) (unit 1)
+  (symbol (lib_id "Remplacement RVB:NES_video_connector") (at 93.98 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 04ece911-9936-492f-910e-c43cd2139472)
     (property "Reference" "C2" (at 109.22 163.5125 0)
@@ -1589,7 +1589,7 @@
     (pin "10" (uuid 88873d67-4dc6-47ce-a17c-8ebc21f234b4))
     (pin "2" (uuid e8f13cb7-5259-4418-b557-e3ecbc69d0d1))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C2") (unit 1)
         )
@@ -1597,7 +1597,7 @@
     )
   )
 
-  (symbol (lib_id "NESComposite:NES_PCB_BRIDGE") (at 231.14 149.86 0) (unit 1)
+  (symbol (lib_id "Remplacement RVB:NES_PCB_BRIDGE") (at 231.14 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09d0da23-c17b-42f4-b441-ea6da6ca0926)
     (property "Reference" "B1" (at 237.49 149.86 0)
@@ -1618,7 +1618,7 @@
     (pin "1" (uuid af44021d-3544-4bb6-bdeb-c492f4e493af))
     (pin "5" (uuid cd5142a4-1d8f-4e7c-bb27-460976d9453e))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "B1") (unit 1)
         )
@@ -1647,7 +1647,7 @@
     (pin "2" (uuid ad78cf29-e735-4382-a956-3ae8797f5094))
     (pin "1" (uuid b2cf013a-6ba8-452b-92c7-819727898519))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C8") (unit 1)
         )
@@ -1672,7 +1672,7 @@
     )
     (pin "1" (uuid 00952dac-84bb-4799-9c31-ead5ff6d01fd))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "TP1") (unit 1)
         )
@@ -1699,7 +1699,7 @@
     (pin "1" (uuid 88a8ae8a-1a25-405e-b344-d9a56a2db6d7))
     (pin "2" (uuid f82c2b08-c28d-492d-85d4-e145c5c06732))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "J1") (unit 1)
         )
@@ -1726,7 +1726,7 @@
     (pin "3" (uuid eb8b0fa8-d47e-43d3-8e00-e9a950c07728))
     (pin "1" (uuid 91685783-a001-45bd-81a5-c84e00b22565))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "U1") (unit 1)
         )
@@ -1752,7 +1752,7 @@
     (pin "1" (uuid eabb06b6-b147-4239-af95-aa50b4c258c4))
     (pin "2" (uuid ef890bb1-5649-42e1-b4f7-d3e944d2ee17))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C4") (unit 1)
         )
@@ -1778,7 +1778,7 @@
     (pin "2" (uuid 171cc98b-264b-45ba-b7b1-9ebb78d17f64))
     (pin "1" (uuid 56734c1b-3f8a-45f2-bb80-78ea37e87bc7))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C10") (unit 1)
         )
@@ -1807,7 +1807,7 @@
     (pin "1" (uuid 728af5ee-f49c-437a-b3d5-bcfc2cb5191c))
     (pin "2" (uuid 47136a20-9fa0-48c2-90a3-561d94321d6b))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C7") (unit 1)
         )
@@ -1833,7 +1833,7 @@
     (pin "1" (uuid 60167d0f-f899-43b0-a858-19c8b79082a6))
     (pin "2" (uuid ddf9b3d3-e4c9-4e3c-9169-5a3991aa7d6b))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C9") (unit 1)
         )
@@ -1859,7 +1859,7 @@
     (pin "2" (uuid 852ca3a5-b807-4d15-b4b0-904218f6e7e2))
     (pin "1" (uuid ae009da9-449a-44ef-84ca-319f8baf1719))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "R1") (unit 1)
         )
@@ -1887,7 +1887,7 @@
     (pin "1" (uuid b8083f47-96d0-4904-9703-a59a84ed724b))
     (pin "4" (uuid 9302345b-3702-4b90-950c-7c5955888e00))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "D1") (unit 1)
         )
@@ -1912,7 +1912,7 @@
     )
     (pin "1" (uuid dbfda4d6-5aae-4e0f-9d63-23b734ba086e))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "TP3") (unit 1)
         )
@@ -1937,7 +1937,7 @@
     )
     (pin "1" (uuid 592ba257-2c3b-45f6-bb7a-bd5c14897b9f))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "#PWR05") (unit 1)
         )
@@ -1962,7 +1962,7 @@
     )
     (pin "1" (uuid 9a3d5e72-f006-4dae-a7a8-99699e20c333))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "PPU.21") (unit 1)
         )
@@ -1987,7 +1987,7 @@
     )
     (pin "1" (uuid 3d7ec0f4-c5ee-43c3-8849-169dbe2873f8))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "#PWR01") (unit 1)
         )
@@ -2013,7 +2013,7 @@
     (pin "1" (uuid e00a5ca4-49d7-45fb-a1b6-938dff56e4b8))
     (pin "2" (uuid 86e698d2-550d-4416-98dd-62430e533819))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C3") (unit 1)
         )
@@ -2038,7 +2038,7 @@
     )
     (pin "1" (uuid 266f2232-c585-4f23-ba8c-dcfb09e563f4))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "TP4") (unit 1)
         )
@@ -2064,7 +2064,7 @@
     (pin "2" (uuid ca575662-4f2a-44e7-8dd1-5413276a21e1))
     (pin "1" (uuid 75e20f65-dc62-4671-af5e-f7bcb2366ede))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "D2") (unit 1)
         )
@@ -2090,7 +2090,7 @@
     (pin "1" (uuid bba54c4c-375c-46b7-b6a7-c155f49ab862))
     (pin "2" (uuid 105500d7-df5d-495d-bf05-5e74829fbeb6))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C1") (unit 1)
         )
@@ -2116,7 +2116,7 @@
     (pin "2" (uuid 076b56ac-0fa3-4bec-9066-dcc381438385))
     (pin "1" (uuid 93b10b5c-eb36-4058-9477-a427855d5021))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "R3") (unit 1)
         )
@@ -2143,7 +2143,7 @@
     (pin "3" (uuid 4c68dfaf-94d8-4b5b-ab49-c991c26244e3))
     (pin "2" (uuid 8abd582c-9f19-43e5-b420-c65d8ced25e1))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "Q1") (unit 1)
         )
@@ -2168,7 +2168,7 @@
     )
     (pin "1" (uuid a1117ba4-eda6-4d75-bb73-e3663643e995))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "#PWR03") (unit 1)
         )
@@ -2194,7 +2194,7 @@
     (pin "2" (uuid f75a9bf7-c5bb-44c8-b97c-917398906c63))
     (pin "1" (uuid a6e6b902-2662-4fda-a9e7-6e38d2830aca))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "R4") (unit 1)
         )
@@ -2219,7 +2219,7 @@
     )
     (pin "1" (uuid b7693a64-0976-4eae-afad-e40113188cfa))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "#PWR02") (unit 1)
         )
@@ -2244,7 +2244,7 @@
     )
     (pin "1" (uuid 8046167f-94b1-403b-b46b-7c201c612249))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "#PWR04") (unit 1)
         )
@@ -2269,7 +2269,7 @@
     )
     (pin "1" (uuid 255a1931-c81a-47bd-8352-d3ff012cb254))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "CVBS") (unit 1)
         )
@@ -2295,7 +2295,7 @@
     (pin "2" (uuid b46d145a-88c8-4a57-9a67-7a78ff6f942a))
     (pin "1" (uuid 06e63368-8cde-48c0-b722-582ceef21136))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "R2") (unit 1)
         )
@@ -2320,7 +2320,7 @@
     )
     (pin "1" (uuid a247c250-4878-43c5-9482-9dca47a38d90))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "TP2") (unit 1)
         )
@@ -2346,7 +2346,7 @@
     (pin "1" (uuid 1305cdd0-803f-4833-b5bf-6fa46f0978fc))
     (pin "2" (uuid f9e14337-4533-48d6-9815-c04724ab0259))
     (instances
-      (project "NESComposite"
+      (project "Remplacement RVB"
         (path "/e95feb55-fff3-457d-a5d4-4ccbcda73ae1"
           (reference "C6") (unit 1)
         )

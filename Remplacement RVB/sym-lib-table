@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Remplacement RVB")(type "KiCad")(uri "${KIPRJMOD}/Remplacement RVB.kicad_sym")(options "")(descr ""))
+)

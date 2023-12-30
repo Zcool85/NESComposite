@@ -13,5 +13,5 @@ Le présent repository se décompose en plusieurs parties :
   de la console
 - Audio mod : Schéma de principe KiCad pour sortir le son en "stéréo"
 - CIC mod : Explications pour dészoner la NES
-- All-in-one : Projet permettant de remplacer la carte RGB de la NES par une
+- Remplacement RVB : Projet permettant de remplacer la carte RGB de la NES par une
   carte personnalisée avec une sortie composite uniquement
